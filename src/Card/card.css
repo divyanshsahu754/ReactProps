@@ -1,0 +1,32 @@
+.container{
+    
+    background-color: rgb(161, 126, 203);
+    height: 500px;
+    border-style: double;
+    border-radius: .5cm;
+    border-width: 5px;
+    width:  350px;
+    padding: 10px;
+}
+img{
+    height: 50px;
+    width: 75px;
+    border-radius: 50%;
+    border: 5px solid black;
+    
+}
+button{
+    border: 5px solid red;
+    border-radius: 1cm;
+    color: aquamarine;
+    background-color: black;
+    cursor: pointer;
+}
+p{
+    color: aqua;
+}
+strong{
+
+    color: brown;
+    font-size: x-large;
+}
